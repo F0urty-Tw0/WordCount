@@ -1,0 +1,464 @@
+Sonnet 18 Shall I compare:1
+
+18 Shall I compare thee:1
+
+Shall I compare thee to:1
+
+I compare thee to a:1
+
+compare thee to a summer's:1
+
+thee to a summer's day?:1
+
+to a summer's day? Thou:1
+
+a summer's day? Thou art:1
+
+summer's day? Thou art more:1
+
+day? Thou art more lovely:1
+
+Thou art more lovely and:1
+
+art more lovely and more:1
+
+more lovely and more temperate::1
+
+lovely and more temperate: Rough:1
+
+and more temperate: Rough winds:1
+
+more temperate: Rough winds do:1
+
+temperate: Rough winds do shake:1
+
+Rough winds do shake the:1
+
+winds do shake the darling:1
+
+do shake the darling buds:1
+
+shake the darling buds of:1
+
+the darling buds of May,:1
+
+darling buds of May, And:1
+
+buds of May, And summer's:1
+
+of May, And summer's lease:1
+
+May, And summer's lease hath:1
+
+And summer's lease hath all:1
+
+summer's lease hath all too:1
+
+lease hath all too short:1
+
+hath all too short a:1
+
+all too short a date::1
+
+too short a date: Sometime:1
+
+short a date: Sometime too:1
+
+a date: Sometime too hot:1
+
+date: Sometime too hot the:1
+
+Sometime too hot the eye:1
+
+too hot the eye of:1
+
+hot the eye of heaven:1
+
+the eye of heaven shines,:1
+
+eye of heaven shines, And:1
+
+of heaven shines, And often:1
+
+heaven shines, And often is:1
+
+shines, And often is his:1
+
+And often is his gold:1
+
+often is his gold complexion:1
+
+is his gold complexion dimm'd;:1
+
+his gold complexion dimm'd; And:1
+
+gold complexion dimm'd; And every:1
+
+complexion dimm'd; And every fair:1
+
+dimm'd; And every fair from:1
+
+And every fair from fair:1
+
+every fair from fair sometime:1
+
+fair from fair sometime declines,:1
+
+from fair sometime declines, By:1
+
+fair sometime declines, By chance:1
+
+sometime declines, By chance or:1
+
+declines, By chance or nature's:1
+
+By chance or nature's changing:1
+
+chance or nature's changing course:1
+
+or nature's changing course untrimm'd:1
+
+nature's changing course untrimm'd But:1
+
+changing course untrimm'd But thy:1
+
+course untrimm'd But thy eternal:1
+
+untrimm'd But thy eternal summer:1
+
+But thy eternal summer shall:1
+
+thy eternal summer shall not:1
+
+eternal summer shall not fade:1
+
+summer shall not fade Nor:1
+
+shall not fade Nor lose:1
+
+not fade Nor lose possession:1
+
+fade Nor lose possession of:1
+
+Nor lose possession of that:1
+
+lose possession of that fair:1
+
+possession of that fair thou:1
+
+of that fair thou owest;:1
+
+that fair thou owest; Nor:1
+
+fair thou owest; Nor shall:1
+
+thou owest; Nor shall Death:1
+
+owest; Nor shall Death brag:1
+
+Nor shall Death brag thou:1
+
+shall Death brag thou wander'st:1
+
+Death brag thou wander'st in:1
+
+brag thou wander'st in his:1
+
+thou wander'st in his shade,:1
+
+wander'st in his shade, When:1
+
+in his shade, When in:1
+
+his shade, When in eternal:1
+
+shade, When in eternal lines:1
+
+When in eternal lines to:1
+
+in eternal lines to time:1
+
+eternal lines to time thou:1
+
+lines to time thou growest::1
+
+to time thou growest: So:1
+
+time thou growest: So long:1
+
+thou growest: So long as:1
+
+growest: So long as men:1
+
+So long as men can:1
+
+long as men can breathe:1
+
+as men can breathe or:1
+
+men can breathe or eyes:1
+
+can breathe or eyes can:1
+
+breathe or eyes can see,:1
+
+or eyes can see, So:1
+
+eyes can see, So long:1
+
+can see, So long lives:1
+
+see, So long lives this:1
+
+So long lives this and:1
+
+long lives this and this:1
+
+lives this and this gives:1
+
+this and this gives life:1
+
+and this gives life to:1
+
+this gives life to thee.:1
+
+characters:641
+Lines:15
+words:70
+thou:4
+shall:3
+summer:3
+fair:3
+thee:2
+Sonnet 18 Shall I compare:1
+
+18 Shall I compare thee:1
+
+Shall I compare thee to:1
+
+I compare thee to a:1
+
+compare thee to a summer's:1
+
+thee to a summer's day?:1
+
+to a summer's day? Thou:1
+
+a summer's day? Thou art:1
+
+summer's day? Thou art more:1
+
+day? Thou art more lovely:1
+
+Thou art more lovely and:1
+
+art more lovely and more:1
+
+more lovely and more temperate::1
+
+lovely and more temperate: Rough:1
+
+and more temperate: Rough winds:1
+
+more temperate: Rough winds do:1
+
+temperate: Rough winds do shake:1
+
+Rough winds do shake the:1
+
+winds do shake the darling:1
+
+do shake the darling buds:1
+
+shake the darling buds of:1
+
+the darling buds of May,:1
+
+darling buds of May, And:1
+
+buds of May, And summer's:1
+
+of May, And summer's lease:1
+
+May, And summer's lease hath:1
+
+And summer's lease hath all:1
+
+summer's lease hath all too:1
+
+lease hath all too short:1
+
+hath all too short a:1
+
+all too short a date::1
+
+too short a date: Sometime:1
+
+short a date: Sometime too:1
+
+a date: Sometime too hot:1
+
+date: Sometime too hot the:1
+
+Sometime too hot the eye:1
+
+too hot the eye of:1
+
+hot the eye of heaven:1
+
+the eye of heaven shines,:1
+
+eye of heaven shines, And:1
+
+of heaven shines, And often:1
+
+heaven shines, And often is:1
+
+shines, And often is his:1
+
+And often is his gold:1
+
+often is his gold complexion:1
+
+is his gold complexion dimm'd;:1
+
+his gold complexion dimm'd; And:1
+
+gold complexion dimm'd; And every:1
+
+complexion dimm'd; And every fair:1
+
+dimm'd; And every fair from:1
+
+And every fair from fair:1
+
+every fair from fair sometime:1
+
+fair from fair sometime declines,:1
+
+from fair sometime declines, By:1
+
+fair sometime declines, By chance:1
+
+sometime declines, By chance or:1
+
+declines, By chance or nature's:1
+
+By chance or nature's changing:1
+
+chance or nature's changing course:1
+
+or nature's changing course untrimm'd:1
+
+nature's changing course untrimm'd But:1
+
+changing course untrimm'd But thy:1
+
+course untrimm'd But thy eternal:1
+
+untrimm'd But thy eternal summer:1
+
+But thy eternal summer shall:1
+
+thy eternal summer shall not:1
+
+eternal summer shall not fade:1
+
+summer shall not fade Nor:1
+
+shall not fade Nor lose:1
+
+not fade Nor lose possession:1
+
+fade Nor lose possession of:1
+
+Nor lose possession of that:1
+
+lose possession of that fair:1
+
+possession of that fair thou:1
+
+of that fair thou owest;:1
+
+that fair thou owest; Nor:1
+
+fair thou owest; Nor shall:1
+
+thou owest; Nor shall Death:1
+
+owest; Nor shall Death brag:1
+
+Nor shall Death brag thou:1
+
+shall Death brag thou wander'st:1
+
+Death brag thou wander'st in:1
+
+brag thou wander'st in his:1
+
+thou wander'st in his shade,:1
+
+wander'st in his shade, When:1
+
+in his shade, When in:1
+
+his shade, When in eternal:1
+
+shade, When in eternal lines:1
+
+When in eternal lines to:1
+
+in eternal lines to time:1
+
+eternal lines to time thou:1
+
+lines to time thou growest::1
+
+to time thou growest: So:1
+
+time thou growest: So long:1
+
+thou growest: So long as:1
+
+growest: So long as men:1
+
+So long as men can:1
+
+long as men can breathe:1
+
+as men can breathe or:1
+
+men can breathe or eyes:1
+
+can breathe or eyes can:1
+
+breathe or eyes can see,:1
+
+or eyes can see, So:1
+
+eyes can see, So long:1
+
+can see, So long lives:1
+
+see, So long lives this:1
+
+So long lives this and:1
+
+long lives this and this:1
+
+lives this and this gives:1
+
+this and this gives life:1
+
+and this gives life to:1
+
+this gives life to thee.:1
+
+characters:641
+Lines:15
+words:70
+thou:4
+shall:3
+summer:3
+fair:3
+thee:2
